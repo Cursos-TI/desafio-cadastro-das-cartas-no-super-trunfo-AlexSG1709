@@ -92,7 +92,6 @@ int main() {
     float PIB_capita_vencedor_C01, PIB_capita_vencedor_C02, PIB_capita_vencedor_C03, PIB_capita_vencedor_C04, PIB_capita_vencedor_D01, PIB_capita_vencedor_D02, PIB_capita_vencedor_D03, PIB_capita_vencedor_D04;
     float PIB_capita_vencedor_E01, PIB_capita_vencedor_E02, PIB_capita_vencedor_E03, PIB_capita_vencedor_E04, PIB_capita_vencedor_F01, PIB_capita_vencedor_F02, PIB_capita_vencedor_F03, PIB_capita_vencedor_F04;
     float PIB_capita_vencedor_G01, PIB_capita_vencedor_G02, PIB_capita_vencedor_G03, PIB_capita_vencedor_G04, PIB_capita_vencedor_H01, PIB_capita_vencedor_H02, PIB_capita_vencedor_H03, PIB_capita_vencedor_H04;
-    
     // Cadastro das Cartas:
     // Sugestão: Utilize a função scanf para capturar as entradas do usuário para cada atributo.
     // Solicite ao usuário que insira as informações de cada cidade, como o código, nome, população, área, etc.
@@ -1325,6 +1324,46 @@ int main() {
     printf("Pontos turísticos: %d\n", pontos_turisticos_H04);
     printf("Densidade Populacional: %.2f\n", densidade_pp_H04);
     printf("PIB per Capita: %.2f\n", PIB_capita_H04);
+
+    // Declarando valores gerais do estado A
+    total_populacao_A = populacao_A01 + populacao_A02 + populacao_A03 + populacao_A04;
+    total_km_area_A = area_km_A01 + area_km_A02 + area_km_A03 + area_km_A04;
+    total_PIB_A = PIB_A01 + PIB_A02 + PIB_A03 + PIB_A04;
+    total_pontos_turisticos_A = pontos_turisticos_A01 + pontos_turisticos_A02 + pontos_turisticos_A03 + pontos_turisticos_A04;
+    total_densidade_A = (float) total_populacao_A / total_km_area_A;
+    total_PIB_capita_A = (float) total_PIB_A / total_populacao_A;
+
+    // Declarando valores gerais do estado B
+    total_populacao_B = populacao_B01 + populacao_B02 + populacao_B03 + populacao_B04;
+    total_km_area_B = area_km_B01 + area_km_B02 + area_km_B03 + area_km_B04;
+    total_PIB_B = PIB_B01 + PIB_B02 + PIB_B03 + PIB_B04;
+    total_pontos_turisticos_B = pontos_turisticos_B01 + pontos_turisticos_B02 + pontos_turisticos_B03 + pontos_turisticos_B04;
+    total_densidade_B = (float) total_populacao_B / total_km_area_B;
+    total_PIB_capita_B = (float) total_PIB_B / total_populacao_B;
+
+    // Declarando valores gerais do estado C
+    total_populacao_C = populacao_C01 + populacao_C02 + populacao_C03 + populacao_C04;
+    total_km_area_C = area_km_C01 + area_km_C02 + area_km_C03 + area_km_C04;
+    total_PIB_C = PIB_C01 + PIB_C02 + PIB_C03 + PIB_C04;
+    total_pontos_turisticos_C = pontos_turisticos_C01 + pontos_turisticos_C02 + pontos_turisticos_C03 + pontos_turisticos_C04;
+    total_densidade_C = (float) total_populacao_C / total_km_area_C;
+    total_PIB_capita_C = (float) total_PIB_C / total_populacao_C;
+
+    // Declarando valores gerais do estado D
+    total_populacao_D = populacao_D01 + populacao_D02 + populacao_D03 + populacao_D04;
+    total_km_area_D = area_km_D01 + area_km_D02 + area_km_D03 + area_km_D04;
+    total_PIB_D = PIB_D01 + PIB_D02 + PIB_D03 + PIB_D04;
+    total_pontos_turisticos_D = pontos_turisticos_D01 + pontos_turisticos_D02 + pontos_turisticos_D03 + pontos_turisticos_D04;
+    total_densidade_D = (float) total_populacao_D / total_km_area_D;
+    total_PIB_capita_D = (float) total_PIB_D / total_populacao_D;
+
+    // Declarando valores gerais do estado E
+    total_populacao_E = populacao_E01 + populacao_E02 + populacao_E03 + populacao_E04;
+    total_km_area_E = area_km_E01 + area_km_E02 + area_km_E03 + area_km_E04;
+    total_PIB_E = PIB_E01 + PIB_E02 + PIB_E03 + PIB_E04;
+    total_pontos_turisticos_E = pontos_turisticos_E01 + pontos_turisticos_E02 + pontos_turisticos_E03 + pontos_turisticos_E04;
+    total_densidade_E = (float) total_populacao_E / total_km_area_E;
+    total_PIB_capita_E = (float) total_PIB_E / total_populacao_E;
 
     return 0;
 }
