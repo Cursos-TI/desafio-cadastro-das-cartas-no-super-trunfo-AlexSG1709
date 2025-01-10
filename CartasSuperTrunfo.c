@@ -990,5 +990,145 @@ int main() {
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
+    // Declarando valores gerais do País A
+    total_populacao_A = populacao_A01 + populacao_A02 + populacao_A03 + populacao_A04;
+    total_km_area_A = area_km_A01 + area_km_A02 + area_km_A03 + area_km_A04;
+    total_PIB_A = PIB_A01 + PIB_A02 + PIB_A03 + PIB_A04;
+    total_pontos_turisticos_A = pontos_turisticos_A01 + pontos_turisticos_A02 + pontos_turisticos_A03 + pontos_turisticos_A04;
+    total_densidade_A = (float) total_populacao_A / total_km_area_A;
+    total_PIB_capita_A = (float) total_PIB_A / total_populacao_A;
+
+    // Declarando valores gerais do País B
+    total_populacao_B = populacao_B01 + populacao_B02 + populacao_B03 + populacao_B04;
+    total_km_area_B = area_km_B01 + area_km_B02 + area_km_B03 + area_km_B04;
+    total_PIB_B = PIB_B01 + PIB_B02 + PIB_B03 + PIB_B04;
+    total_pontos_turisticos_B = pontos_turisticos_B01 + pontos_turisticos_B02 + pontos_turisticos_B03 + pontos_turisticos_B04;
+    total_densidade_B = (float) total_populacao_B / total_km_area_B;
+    total_PIB_capita_B = (float) total_PIB_B / total_populacao_B;
+
+    // Declarando valores gerais do País C
+    total_populacao_C = populacao_C01 + populacao_C02 + populacao_C03 + populacao_C04;
+    total_km_area_C = area_km_C01 + area_km_C02 + area_km_C03 + area_km_C04;
+    total_PIB_C = PIB_C01 + PIB_C02 + PIB_C03 + PIB_C04;
+    total_pontos_turisticos_C = pontos_turisticos_C01 + pontos_turisticos_C02 + pontos_turisticos_C03 + pontos_turisticos_C04;
+    total_densidade_C = (float) total_populacao_C / total_km_area_C;
+    total_PIB_capita_C = (float) total_PIB_C / total_populacao_C;
+
+    // Declarando valores gerais do País D
+    total_populacao_D = populacao_D01 + populacao_D02 + populacao_D03 + populacao_D04;
+    total_km_area_D = area_km_D01 + area_km_D02 + area_km_D03 + area_km_D04;
+    total_PIB_D = PIB_D01 + PIB_D02 + PIB_D03 + PIB_D04;
+    total_pontos_turisticos_D = pontos_turisticos_D01 + pontos_turisticos_D02 + pontos_turisticos_D03 + pontos_turisticos_D04;
+    total_densidade_D = (float) total_populacao_D / total_km_area_D;
+    total_PIB_capita_D = (float) total_PIB_D / total_populacao_D;
+
+    // Declarando valores gerais do País E
+    total_populacao_E = populacao_E01 + populacao_E02 + populacao_E03 + populacao_E04;
+    total_km_area_E = area_km_E01 + area_km_E02 + area_km_E03 + area_km_E04;
+    total_PIB_E = PIB_E01 + PIB_E02 + PIB_E03 + PIB_E04;
+    total_pontos_turisticos_E = pontos_turisticos_E01 + pontos_turisticos_E02 + pontos_turisticos_E03 + pontos_turisticos_E04;
+    total_densidade_E = (float) total_populacao_E / total_km_area_E;
+    total_PIB_capita_E = (float) total_PIB_E / total_populacao_E;
+
+    // Declarando valores gerais do País F
+    total_populacao_F = populacao_F01 + populacao_F02 + populacao_F03 + populacao_F04;
+    total_km_area_F = area_km_F01 + area_km_F02 + area_km_F03 + area_km_F04;
+    total_PIB_F = PIB_F01 + PIB_F02 + PIB_F03 + PIB_F04;
+    total_pontos_turisticos_F = pontos_turisticos_F01 + pontos_turisticos_F02 + pontos_turisticos_F03 + pontos_turisticos_F04;
+    total_densidade_F = (float) total_populacao_F / total_km_area_F;
+    total_PIB_capita_F = (float) total_PIB_F / total_populacao_F;
+
+    // Declarando valores gerais do País E
+    total_populacao_G = populacao_G01 + populacao_G02 + populacao_G03 + populacao_G04;
+    total_km_area_G = area_km_G01 + area_km_G02 + area_km_G03 + area_km_G04;
+    total_PIB_G = PIB_G01 + PIB_G02 + PIB_G03 + PIB_G04;
+    total_pontos_turisticos_G = pontos_turisticos_G01 + pontos_turisticos_G02 + pontos_turisticos_G03 + pontos_turisticos_G04;
+    total_densidade_G = (float) total_populacao_G / total_km_area_G;
+    total_PIB_capita_G = (float) total_PIB_G / total_populacao_G;
+
+    // Declarando valores gerais do País E
+    total_populacao_H = populacao_H01 + populacao_H02 + populacao_H03 + populacao_H04;
+    total_km_area_H = area_km_H01 + area_km_H02 + area_km_H03 + area_km_H04;
+    total_PIB_H = PIB_H01 + PIB_H02 + PIB_H03 + PIB_H04;
+    total_pontos_turisticos_H = pontos_turisticos_H01 + pontos_turisticos_H02 + pontos_turisticos_H03 + pontos_turisticos_H04;
+    total_densidade_H = (float) total_populacao_H / total_km_area_H;
+    total_PIB_capita_H = (float) total_PIB_H / total_populacao_H;
+
+    //*** Exibição de dados gerais dos países ***
+
+    printf(" ---------- Dados dos países ---------- \n\n");
+
+    //---- Exibição dados do país A
+    printf("########## Estado: %s ##########\n\n", pais_A);
+    printf("População: %lu habitantes\n", total_populacao_A);
+    printf("Área: %.1f km²\n", total_km_area_A);
+    printf("PIB: R$ %.2f\n", total_PIB_A);
+    printf("Pontos turísticos: %d\n", total_pontos_turisticos_A);
+    printf("Densidade populacional: %.2f hab/km²\n", total_densidade_A);
+    printf("PIB per capita: R$ %2f\n", total_PIB_capita_A);
+
+    //---- Exibição dados do país B
+    printf("########## Estado: %s ##########\n\n", pais_B);
+    printf("População: %lu habitantes\n", total_populacao_B);
+    printf("Área: %.1f km²\n", total_km_area_B);
+    printf("PIB: R$ %.2f\n", total_PIB_B);
+    printf("Pontos turísticos: %d\n", total_pontos_turisticos_B);
+    printf("Densidade populacional: %.2f hab/km²\n", total_densidade_B);
+    printf("PIB per capita: R$ %.2f\n", total_PIB_capita_B);
+
+    //---- Exibição dados do país C
+    printf("########## Estado: %s ##########\n\n", pais_C);
+    printf("População: %lu habitantes\n", total_populacao_C);
+    printf("Área: %.1f km²\n", total_km_area_C);
+    printf("PIB: R$ %.2f\n", total_PIB_C);
+    printf("Pontos turísticos: %d\n", total_pontos_turisticos_C);
+    printf("Densidade populacional: %.2f hab/km²\n", total_densidade_C);
+    printf("PIB per capita: R$ %2f\n", total_PIB_capita_C);
+
+    //---- Exibição dados do país D
+    printf("########## Estado: %s ##########\n\n", pais_D);
+    printf("População: %lu habitantes\n", total_populacao_D);
+    printf("Área: %.1f km²\n", total_km_area_D);
+    printf("PIB: R$ %.2f\n", total_PIB_D);
+    printf("Pontos turísticos: %d\n", total_pontos_turisticos_D);
+    printf("Densidade populacional: %.2f hab/km²\n", total_densidade_D);
+    printf("PIB per capita: R$ %2f\n", total_PIB_capita_D);
+
+    //---- Exibição dados do país E
+    printf("########## Estado: %s ##########\n\n", pais_E);
+    printf("População: %lu habitantes\n", total_populacao_E);
+    printf("Área: %.1f km²\n", total_km_area_E);
+    printf("PIB: R$ %.2f\n", total_PIB_E);
+    printf("Pontos turísticos: %d\n", total_pontos_turisticos_E);
+    printf("Densidade populacional: %.2f hab/km²\n", total_densidade_E);
+    printf("PIB per capita: R$ %2f\n", total_PIB_capita_E);
+
+    //---- Exibição dados do país F
+    printf("########## Estado: %s ##########\n\n", pais_F);
+    printf("População: %lu habitantes\n", total_populacao_F);
+    printf("Área: %.1f km²\n", total_km_area_F);
+    printf("PIB: R$ %.2f\n", total_PIB_F);
+    printf("Pontos turísticos: %d\n", total_pontos_turisticos_F);
+    printf("Densidade populacional: %.2f hab/km²\n", total_densidade_F);
+    printf("PIB per capita: R$ %2f\n", total_PIB_capita_F);
+
+    //---- Exibição dados do país G
+    printf("########## Estado: %s ##########\n\n", pais_G);
+    printf("População: %lu habitantes\n", total_populacao_G);
+    printf("Área: %.1f km²\n", total_km_area_G);
+    printf("PIB: R$ %.2f\n", total_PIB_G);
+    printf("Pontos turísticos: %d\n", total_pontos_turisticos_G);
+    printf("Densidade populacional: %.2f hab/km²\n", total_densidade_G);
+    printf("PIB per capita: R$ %2f\n", total_PIB_capita_G);
+
+    //---- Exibição dados do país H
+    printf("########## Estado: %s ##########\n\n", pais_H);
+    printf("População: %lu habitantes\n", total_populacao_H);
+    printf("Área: %.1f km²\n", total_km_area_H);
+    printf("PIB: R$ %.2f\n", total_PIB_H);
+    printf("Pontos turísticos: %d\n", total_pontos_turisticos_H);
+    printf("Densidade populacional: %.2f hab/km²\n", total_densidade_H);
+    printf("PIB per capita: R$ %2f\n", total_PIB_capita_H);
+
     return 0;
 }
