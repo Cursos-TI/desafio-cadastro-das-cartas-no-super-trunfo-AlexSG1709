@@ -1130,5 +1130,7 @@ int main() {
     printf("Densidade populacional: %.2f hab/km²\n", total_densidade_H);
     printf("PIB per capita: R$ %2f\n", total_PIB_capita_H);
 
+    
+
     return 0;
 }
