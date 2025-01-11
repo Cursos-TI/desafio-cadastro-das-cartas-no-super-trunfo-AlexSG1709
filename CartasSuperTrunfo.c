@@ -1130,7 +1130,30 @@ int main() {
     printf("Densidade populacional: %.2f hab/km²\n", total_densidade_H);
     printf("PIB per capita: R$ %2f\n", total_PIB_capita_H);
 
-    
+    // Declaração de comparação de Estados
+    // Comparação estado A01 com A02
+    populacao_vencedora_A01 = populacao_A01 >= populacao_A02;
+    area_vencedora_A01 = area_km_A01 >= area_km_A02;
+    PIB_vencedor_A01 = PIB_A01 >= PIB_A02;
+    ponto_turistico_vencedor_A01 = pontos_turisticos_A01 >= pontos_turisticos_A02;
+    densidade_vencedora_A01 = densidade_pp_A01 >= densidade_pp_A02;
+    PIB_capita_vencedor_A01 = PIB_capita_A01 >= PIB_capita_A02;
+
+     // Comparação estado A01 com A03
+    populacao_vencedora_A01 = populacao_A01 >= populacao_A03;
+    area_vencedora_A01 = area_km_A01 >= area_km_A03;
+    PIB_vencedor_A01 = PIB_A01 >= PIB_A03;
+    ponto_turistico_vencedor_A01 = pontos_turisticos_A01 >= pontos_turisticos_A03;
+    densidade_vencedora_A01 = densidade_pp_A01 >= densidade_pp_A03;
+    PIB_capita_vencedor_A01 = PIB_capita_A01 >= PIB_capita_A03;
+
+     // Comparação estado A01 com A04
+    populacao_vencedora_A01 = populacao_A01 >= populacao_A04;
+    area_vencedora_A01 = area_km_A01 >= area_km_A04;
+    PIB_vencedor_A01 = PIB_A01 >= PIB_A04;
+    ponto_turistico_vencedor_A01 = pontos_turisticos_A01 >= pontos_turisticos_A04;
+    densidade_vencedora_A01 = densidade_pp_A01 >= densidade_pp_A04;
+    PIB_capita_vencedor_A01 = PIB_capita_A01 >= PIB_capita_A04;
 
     return 0;
 }
