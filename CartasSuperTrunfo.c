@@ -1888,8 +1888,8 @@ int main() {
     area_vencedora_A04 = area_km_A04 >= area_km_A02;
     PIB_vencedor_A04 = PIB_A04 >= PIB_A02;
     ponto_turistico_vencedor_A04 = pontos_turisticos_A04 >= pontos_turisticos_A02;
-    densidade_vencedora_A03 = densidade_pp_A04 >= densidade_pp_A02;
-    PIB_capita_vencedor_A03 = PIB_capita_A04 >= PIB_capita_A02;
+    densidade_vencedora_A04 = densidade_pp_A04 >= densidade_pp_A02;
+    PIB_capita_vencedor_A04 = PIB_capita_A04 >= PIB_capita_A02;
 
     // Comparação estado A04 com A03
     populacao_vencedora_A04 = populacao_A04 >= populacao_A03;
@@ -1912,8 +1912,8 @@ int main() {
     area_vencedora_A04 = area_km_A04 >= area_km_B02;
     PIB_vencedor_A04 = PIB_A04 >= PIB_B02;
     ponto_turistico_vencedor_A04 = pontos_turisticos_A04 >= pontos_turisticos_B02;
-    densidade_vencedora_A03 = densidade_pp_A04 >= densidade_pp_B02;
-    PIB_capita_vencedor_A03 = PIB_capita_A04 >= PIB_capita_B02;
+    densidade_vencedora_A04 = densidade_pp_A04 >= densidade_pp_B02;
+    PIB_capita_vencedor_A04 = PIB_capita_A04 >= PIB_capita_B02;
 
     // Comparação estado A04 com B03
     populacao_vencedora_A04 = populacao_A04 >= populacao_B03;
@@ -1944,8 +1944,8 @@ int main() {
     area_vencedora_A04 = area_km_A04 >= area_km_C02;
     PIB_vencedor_A04 = PIB_A04 >= PIB_C02;
     ponto_turistico_vencedor_A04 = pontos_turisticos_A04 >= pontos_turisticos_C02;
-    densidade_vencedora_A03 = densidade_pp_A04 >= densidade_pp_C02;
-    PIB_capita_vencedor_A03 = PIB_capita_A04 >= PIB_capita_C02;
+    densidade_vencedora_A04 = densidade_pp_A04 >= densidade_pp_C02;
+    PIB_capita_vencedor_A04 = PIB_capita_A04 >= PIB_capita_C02;
 
     // Comparação estado A04 com C03
     populacao_vencedora_A04 = populacao_A04 >= populacao_C03;
@@ -1976,8 +1976,8 @@ int main() {
     area_vencedora_A04 = area_km_A04 >= area_km_D02;
     PIB_vencedor_A04 = PIB_A04 >= PIB_D02;
     ponto_turistico_vencedor_A04 = pontos_turisticos_A04 >= pontos_turisticos_D02;
-    densidade_vencedora_A03 = densidade_pp_A04 >= densidade_pp_D02;
-    PIB_capita_vencedor_A03 = PIB_capita_A04 >= PIB_capita_D02;
+    densidade_vencedora_A04 = densidade_pp_A04 >= densidade_pp_D02;
+    PIB_capita_vencedor_A04 = PIB_capita_A04 >= PIB_capita_D02;
 
     // Comparação estado A04 com D03
     populacao_vencedora_A04 = populacao_A04 >= populacao_D03;
@@ -2008,8 +2008,8 @@ int main() {
     area_vencedora_A04 = area_km_A04 >= area_km_E02;
     PIB_vencedor_A04 = PIB_A04 >= PIB_E02;
     ponto_turistico_vencedor_A04 = pontos_turisticos_A04 >= pontos_turisticos_E02;
-    densidade_vencedora_A03 = densidade_pp_A04 >= densidade_pp_E02;
-    PIB_capita_vencedor_A03 = PIB_capita_A04 >= PIB_capita_E02;
+    densidade_vencedora_A04 = densidade_pp_A04 >= densidade_pp_E02;
+    PIB_capita_vencedor_A04 = PIB_capita_A04 >= PIB_capita_E02;
 
     // Comparação estado A04 com E03
     populacao_vencedora_A04 = populacao_A04 >= populacao_E03;
@@ -2040,8 +2040,8 @@ int main() {
     area_vencedora_A04 = area_km_A04 >= area_km_F02;
     PIB_vencedor_A04 = PIB_A04 >= PIB_F02;
     ponto_turistico_vencedor_A04 = pontos_turisticos_F04 >= pontos_turisticos_F02;
-    densidade_vencedora_A03 = densidade_pp_A04 >= densidade_pp_F02;
-    PIB_capita_vencedor_A03 = PIB_capita_A04 >= PIB_capita_F02;
+    densidade_vencedora_A04 = densidade_pp_A04 >= densidade_pp_F02;
+    PIB_capita_vencedor_A04 = PIB_capita_A04 >= PIB_capita_F02;
 
     // Comparação estado A04 com F03
     populacao_vencedora_A04 = populacao_A04 >= populacao_F03;
@@ -2072,8 +2072,8 @@ int main() {
     area_vencedora_A04 = area_km_A04 >= area_km_G02;
     PIB_vencedor_A04 = PIB_A04 >= PIB_G02;
     ponto_turistico_vencedor_A04 = pontos_turisticos_A04 >= pontos_turisticos_G02;
-    densidade_vencedora_A03 = densidade_pp_A04 >= densidade_pp_G02;
-    PIB_capita_vencedor_A03 = PIB_capita_A04 >= PIB_capita_G02;
+    densidade_vencedora_A04 = densidade_pp_A04 >= densidade_pp_G02;
+    PIB_capita_vencedor_A04 = PIB_capita_A04 >= PIB_capita_G02;
 
     // Comparação estado A04 com G03
     populacao_vencedora_A04 = populacao_A04 >= populacao_G03;
@@ -2104,8 +2104,8 @@ int main() {
     area_vencedora_A04 = area_km_A04 >= area_km_H02;
     PIB_vencedor_A04 = PIB_A04 >= PIB_H02;
     ponto_turistico_vencedor_A04 = pontos_turisticos_A04 >= pontos_turisticos_H02;
-    densidade_vencedora_A03 = densidade_pp_A04 >= densidade_pp_H02;
-    PIB_capita_vencedor_A03 = PIB_capita_A04 >= PIB_capita_H02;
+    densidade_vencedora_A04 = densidade_pp_A04 >= densidade_pp_H02;
+    PIB_capita_vencedor_A04 = PIB_capita_A04 >= PIB_capita_H02;
 
     // Comparação estado A04 com H03
     populacao_vencedora_A04 = populacao_A04 >= populacao_H03;
@@ -2628,7 +2628,7 @@ int main() {
     PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_A01;
 
     // Comparação estado B03 com A02
-    populacao_vencedora_B03 = populacao_B02 >= populacao_A02;
+    populacao_vencedora_B03 = populacao_B03 >= populacao_A02;
     area_vencedora_B03 = area_km_B03 >= area_km_A02;
     PIB_vencedor_B03 = PIB_B03 >= PIB_A02;
     ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_A02;
@@ -2638,7 +2638,7 @@ int main() {
     // Comparação estado B03 com A03
     populacao_vencedora_B03 = populacao_B03 >= populacao_A03;
     area_vencedora_B03 = area_km_B03 >= area_km_A03;
-    PIB_vencedor_B03 = PIB_B02 >= PIB_A03;
+    PIB_vencedor_B03 = PIB_B03 >= PIB_A03;
     ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_A03;
     densidade_vencedora_B03 = densidade_pp_B03 >= densidade_pp_A03;
     PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_A03;
@@ -2660,7 +2660,7 @@ int main() {
     PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_B01;
 
     // Comparação estado B03 com B02
-    populacao_vencedora_B03 = populacao_B02 >= populacao_B02;
+    populacao_vencedora_B03 = populacao_B03 >= populacao_B02;
     area_vencedora_B03 = area_km_B03 >= area_km_B02;
     PIB_vencedor_B03 = PIB_B03 >= PIB_B02;
     ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_B02;
@@ -2684,7 +2684,7 @@ int main() {
     PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_C01;
 
     // Comparação estado B03 com C02
-    populacao_vencedora_B03 = populacao_B02 >= populacao_C02;
+    populacao_vencedora_B03 = populacao_B03 >= populacao_C02;
     area_vencedora_B03 = area_km_B03 >= area_km_C02;
     PIB_vencedor_B03 = PIB_B03 >= PIB_C02;
     ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_C02;
@@ -2694,7 +2694,7 @@ int main() {
     // Comparação estado B03 com C03
     populacao_vencedora_B03 = populacao_B03 >= populacao_C03;
     area_vencedora_B03 = area_km_B03 >= area_km_C03;
-    PIB_vencedor_B03 = PIB_B02 >= PIB_C03;
+    PIB_vencedor_B03 = PIB_B03 >= PIB_C03;
     ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_C03;
     densidade_vencedora_B03 = densidade_pp_B03 >= densidade_pp_C03;
     PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_C03;
@@ -2716,7 +2716,7 @@ int main() {
     PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_D01;
 
     // Comparação estado B03 com D02
-    populacao_vencedora_B03 = populacao_B02 >= populacao_D02;
+    populacao_vencedora_B03 = populacao_B03 >= populacao_D02;
     area_vencedora_B03 = area_km_B03 >= area_km_D02;
     PIB_vencedor_B03 = PIB_B03 >= PIB_D02;
     ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_D02;
@@ -2726,7 +2726,7 @@ int main() {
     // Comparação estado B03 com D03
     populacao_vencedora_B03 = populacao_B03 >= populacao_D03;
     area_vencedora_B03 = area_km_B03 >= area_km_D03;
-    PIB_vencedor_B03 = PIB_B02 >= PIB_D03;
+    PIB_vencedor_B03 = PIB_B03 >= PIB_D03;
     ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_D03;
     densidade_vencedora_B03 = densidade_pp_B03 >= densidade_pp_D03;
     PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_D03;
@@ -2748,7 +2748,7 @@ int main() {
     PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_E01;
 
     // Comparação estado B03 com E02
-    populacao_vencedora_B03 = populacao_B02 >= populacao_E02;
+    populacao_vencedora_B03 = populacao_B03 >= populacao_E02;
     area_vencedora_B03 = area_km_B03 >= area_km_E02;
     PIB_vencedor_B03 = PIB_B03 >= PIB_E02;
     ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_E02;
@@ -2758,7 +2758,7 @@ int main() {
     // Comparação estado B03 com E03
     populacao_vencedora_B03 = populacao_B03 >= populacao_E03;
     area_vencedora_B03 = area_km_B03 >= area_km_E03;
-    PIB_vencedor_B03 = PIB_B02 >= PIB_E03;
+    PIB_vencedor_B03 = PIB_B03 >= PIB_E03;
     ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_E03;
     densidade_vencedora_B03 = densidade_pp_B03 >= densidade_pp_E03;
     PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_E03;
@@ -2780,7 +2780,7 @@ int main() {
     PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_F01;
 
     // Comparação estado B03 com F02
-    populacao_vencedora_B03 = populacao_B02 >= populacao_F02;
+    populacao_vencedora_B03 = populacao_B03 >= populacao_F02;
     area_vencedora_B03 = area_km_B03 >= area_km_F02;
     PIB_vencedor_B03 = PIB_B03 >= PIB_F02;
     ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_F02;
@@ -2790,7 +2790,7 @@ int main() {
     // Comparação estado B03 com F03
     populacao_vencedora_B03 = populacao_B03 >= populacao_F03;
     area_vencedora_B03 = area_km_B03 >= area_km_F03;
-    PIB_vencedor_B03 = PIB_B02 >= PIB_F03;
+    PIB_vencedor_B03 = PIB_B03 >= PIB_F03;
     ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_F03;
     densidade_vencedora_B03 = densidade_pp_B03 >= densidade_pp_F03;
     PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_F03;
@@ -2802,6 +2802,1182 @@ int main() {
     ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_F04;
     densidade_vencedora_B03 = densidade_pp_B03 >= densidade_pp_F04;
     PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_F04;
+
+    // Comparação estado B03 com G01
+    populacao_vencedora_B03 = populacao_B03 >= populacao_G01;
+    area_vencedora_B03 = area_km_B03 >= area_km_G01;
+    PIB_vencedor_B03 = PIB_B03 >= PIB_G01;
+    ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_G01;
+    densidade_vencedora_B03 = densidade_pp_B03 >= densidade_pp_G01;
+    PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_G01;
+
+    // Comparação estado B03 com G02
+    populacao_vencedora_B03 = populacao_B03 >= populacao_G02;
+    area_vencedora_B03 = area_km_B03 >= area_km_G02;
+    PIB_vencedor_B03 = PIB_B03 >= PIB_G02;
+    ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_G02;
+    densidade_vencedora_B03 = densidade_pp_B03 >= densidade_pp_G02;
+    PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_G02;
+
+    // Comparação estado B03 com G03
+    populacao_vencedora_B03 = populacao_B03 >= populacao_G03;
+    area_vencedora_B03 = area_km_B03 >= area_km_G03;
+    PIB_vencedor_B03 = PIB_B03 >= PIB_G03;
+    ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_G03;
+    densidade_vencedora_B03 = densidade_pp_B03 >= densidade_pp_G03;
+    PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_G03;
+
+    // Comparação estado B03 com G04
+    populacao_vencedora_B03 = populacao_B03 >= populacao_G04;
+    area_vencedora_B03 = area_km_B03 >= area_km_G04;
+    PIB_vencedor_B03 = PIB_B03 >= PIB_G04;
+    ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_G04;
+    densidade_vencedora_B03 = densidade_pp_B03 >= densidade_pp_G04;
+    PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_G04;
+
+    // Comparação estado B03 com H01
+    populacao_vencedora_B03 = populacao_B03 >= populacao_H01;
+    area_vencedora_B03 = area_km_B03 >= area_km_H01;
+    PIB_vencedor_B03 = PIB_B03 >= PIB_H01;
+    ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_H01;
+    densidade_vencedora_B03 = densidade_pp_B03 >= densidade_pp_H01;
+    PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_H01;
+
+    // Comparação estado B03 com H02
+    populacao_vencedora_B03 = populacao_B03 >= populacao_H02;
+    area_vencedora_B03 = area_km_B03 >= area_km_H02;
+    PIB_vencedor_B03 = PIB_B03 >= PIB_H02;
+    ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_H02;
+    densidade_vencedora_B03 = densidade_pp_B03 >= densidade_pp_H02;
+    PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_H02;
+
+    // Comparação estado B03 com H03
+    populacao_vencedora_B03 = populacao_B03 >= populacao_H03;
+    area_vencedora_B03 = area_km_B03 >= area_km_H03;
+    PIB_vencedor_B03 = PIB_B03 >= PIB_H03;
+    ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_H03;
+    densidade_vencedora_B03 = densidade_pp_B03 >= densidade_pp_H03;
+    PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_H03;
+
+    // Comparação estado B03 com H04
+    populacao_vencedora_B03 = populacao_B03 >= populacao_H04;
+    area_vencedora_B03 = area_km_B03 >= area_km_H04;
+    PIB_vencedor_B03 = PIB_B03 >= PIB_H04;
+    ponto_turistico_vencedor_B03 = pontos_turisticos_B03 >= pontos_turisticos_H04;
+    densidade_vencedora_B03 = densidade_pp_B03 >= densidade_pp_H04;
+    PIB_capita_vencedor_B03 = PIB_capita_B03 >= PIB_capita_H04;
+
+    // Comparação estado B04 com A01
+    populacao_vencedora_B04 = populacao_B04 >= populacao_A01;
+    area_vencedora_B04 = area_km_B04 >= area_km_A01;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_A01;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_A01;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_A01;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_A01;
+
+    // Comparação estado B04 com A02
+    populacao_vencedora_B04 = populacao_B04 >= populacao_A02;
+    area_vencedora_B04 = area_km_B04 >= area_km_A02;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_A02;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_A02;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_A02;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_A02;
+
+    // Comparação estado B04 com A03
+    populacao_vencedora_B04 = populacao_B04 >= populacao_A03;
+    area_vencedora_B04 = area_km_B04 >= area_km_A03;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_A03;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_A03;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_A03;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_A03;
+
+    // Comparação estado B04 com A04
+    populacao_vencedora_B04 = populacao_B04 >= populacao_A04;
+    area_vencedora_B04 = area_km_B04 >= area_km_A04;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_A04;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_A04;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_A04;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_A04;
+
+    // Comparação estado B04 com B01
+    populacao_vencedora_B04 = populacao_B04 >= populacao_B01;
+    area_vencedora_B04 = area_km_B04 >= area_km_B01;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_B01;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_B01;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_B01;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_B01;
+
+    // Comparação estado B04 com B02
+    populacao_vencedora_B04 = populacao_B04 >= populacao_B02;
+    area_vencedora_B04 = area_km_B04 >= area_km_B02;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_B02;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_B02;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_B02;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_B02;
+
+    // Comparação estado B04 com B03
+    populacao_vencedora_B04 = populacao_B04 >= populacao_B03;
+    area_vencedora_B04 = area_km_B04 >= area_km_B03;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_B03;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_B03;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_B03;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_B03;
+
+    // Comparação estado B04 com C01
+    populacao_vencedora_B04 = populacao_B04 >= populacao_C01;
+    area_vencedora_B04 = area_km_B04 >= area_km_C01;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_C01;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_C01;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_C01;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_C01;
+
+    // Comparação estado B04 com C02
+    populacao_vencedora_B04 = populacao_B04 >= populacao_C02;
+    area_vencedora_B04 = area_km_B04 >= area_km_C02;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_C02;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_C02;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_C02;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_C02;
+
+    // Comparação estado B04 com C03
+    populacao_vencedora_B04 = populacao_B04 >= populacao_C03;
+    area_vencedora_B04 = area_km_B04 >= area_km_C03;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_C03;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_C03;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_C03;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_C03;
+
+    // Comparação estado B04 com C04
+    populacao_vencedora_B04 = populacao_B04 >= populacao_C04;
+    area_vencedora_B04 = area_km_B04 >= area_km_C04;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_C04;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_C04;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_C04;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_C04;
+
+    // Comparação estado B04 com D01
+    populacao_vencedora_B04 = populacao_B04 >= populacao_D01;
+    area_vencedora_B04 = area_km_B04 >= area_km_D01;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_D01;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_D01;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_D01;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_D01;
+
+    // Comparação estado B04 com D02
+    populacao_vencedora_B04 = populacao_B04 >= populacao_D02;
+    area_vencedora_B04 = area_km_B04 >= area_km_D02;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_D02;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_D02;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_D02;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_D02;
+
+    // Comparação estado B04 com D03
+    populacao_vencedora_B04 = populacao_B04 >= populacao_D03;
+    area_vencedora_B04 = area_km_B04 >= area_km_D03;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_D03;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_D03;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_D03;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_D03;
+
+    // Comparação estado B04 com D04
+    populacao_vencedora_B04 = populacao_B04 >= populacao_D04;
+    area_vencedora_B04 = area_km_B04 >= area_km_D04;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_D04;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_D04;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_D04;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_D04;
+
+    // Comparação estado B04 com E01
+    populacao_vencedora_B04 = populacao_B04 >= populacao_E01;
+    area_vencedora_B04 = area_km_B04 >= area_km_E01;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_E01;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_E01;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_E01;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_E01;
+
+    // Comparação estado B04 com E02
+    populacao_vencedora_B04 = populacao_B04 >= populacao_E02;
+    area_vencedora_B04 = area_km_B04 >= area_km_E02;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_E02;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_E02;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_E02;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_E02;
+
+    // Comparação estado B04 com E03
+    populacao_vencedora_B04 = populacao_B04 >= populacao_E03;
+    area_vencedora_B04 = area_km_B04 >= area_km_E03;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_E03;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_E03;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_E03;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_E03;
+
+    // Comparação estado B04 com E04
+    populacao_vencedora_B04 = populacao_B04 >= populacao_E04;
+    area_vencedora_B04 = area_km_B04 >= area_km_E04;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_E04;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_E04;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_E04;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_E04;
+
+    // Comparação estado B04 com F01
+    populacao_vencedora_B04 = populacao_B04 >= populacao_F01;
+    area_vencedora_B04 = area_km_B04 >= area_km_F01;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_F01;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_F01;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_F01;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_F01;
+
+    // Comparação estado B04 com F02
+    populacao_vencedora_B04 = populacao_B04 >= populacao_F02;
+    area_vencedora_B04 = area_km_B04 >= area_km_F02;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_F02;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_F02;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_F02;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_F02;
+
+    // Comparação estado B04 com F03
+    populacao_vencedora_B04 = populacao_B04 >= populacao_F03;
+    area_vencedora_B04 = area_km_B04 >= area_km_F03;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_F03;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_F03;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_F03;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_F03;
+
+    // Comparação estado B04 com F04
+    populacao_vencedora_B04 = populacao_B04 >= populacao_F04;
+    area_vencedora_B04 = area_km_B04 >= area_km_F04;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_F04;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_F04;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_F04;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_F04;
+
+    // Comparação estado B04 com G01
+    populacao_vencedora_B04 = populacao_B04 >= populacao_G01;
+    area_vencedora_B04 = area_km_B04 >= area_km_G01;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_G01;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_G01;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_G01;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_G01;
+
+    // Comparação estado B04 com G02
+    populacao_vencedora_B04 = populacao_B04 >= populacao_G02;
+    area_vencedora_B04 = area_km_B04 >= area_km_G02;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_G02;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_G02;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_G02;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_G02;
+
+    // Comparação estado B04 com G03
+    populacao_vencedora_B04 = populacao_B04 >= populacao_G03;
+    area_vencedora_B04 = area_km_B04 >= area_km_G03;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_G03;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_G03;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_G03;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_G03;
+
+    // Comparação estado B04 com G04
+    populacao_vencedora_B04 = populacao_B04 >= populacao_G04;
+    area_vencedora_B04 = area_km_B04 >= area_km_G04;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_G04;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_G04;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_G04;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_G04;
+
+    // Comparação estado B04 com H01
+    populacao_vencedora_B04 = populacao_B04 >= populacao_H01;
+    area_vencedora_B04 = area_km_B04 >= area_km_H01;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_H01;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_H01;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_H01;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_H01;
+
+    // Comparação estado B04 com H02
+    populacao_vencedora_B04 = populacao_B04 >= populacao_H02;
+    area_vencedora_B04 = area_km_B04 >= area_km_H02;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_H02;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_H02;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_H02;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_H02;
+
+    // Comparação estado B04 com H03
+    populacao_vencedora_B04 = populacao_B04 >= populacao_H03;
+    area_vencedora_B04 = area_km_B04 >= area_km_H03;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_H03;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_H03;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_H03;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_H03;
+
+    // Comparação estado B04 com H04
+    populacao_vencedora_B04 = populacao_B04 >= populacao_H04;
+    area_vencedora_B04 = area_km_B04 >= area_km_H04;
+    PIB_vencedor_B04 = PIB_B04 >= PIB_H04;
+    ponto_turistico_vencedor_B04 = pontos_turisticos_B04 >= pontos_turisticos_H04;
+    densidade_vencedora_B04 = densidade_pp_B04 >= densidade_pp_H04;
+    PIB_capita_vencedor_B04 = PIB_capita_B04 >= PIB_capita_H04;
+
+    // Comparação estado C01 com A01
+    populacao_vencedora_C01 = populacao_C01 >= populacao_A01;
+    area_vencedora_C01 = area_km_C01 >= area_km_A01;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_A01;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_A01;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_A01;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_A01;
+
+    // Comparação estado C01 com A02
+    populacao_vencedora_C01 = populacao_C01 >= populacao_A02;
+    area_vencedora_C01 = area_km_C01 >= area_km_A02;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_A02;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_A02;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_A02;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_A02;
+
+    // Comparação estado C01 com A03
+    populacao_vencedora_C01 = populacao_C01 >= populacao_A03;
+    area_vencedora_C01 = area_km_C01 >= area_km_A03;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_A03;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_A03;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_A03;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_A03;
+
+    // Comparação estado C01 com A04
+    populacao_vencedora_C01 = populacao_C01 >= populacao_A04;
+    area_vencedora_C01 = area_km_C01 >= area_km_A04;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_A04;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_A04;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_A04;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_A04;
+
+     // Comparação estado C01 com B01
+    populacao_vencedora_C01 = populacao_C01 >= populacao_B01;
+    area_vencedora_C01 = area_km_C01 >= area_km_B01;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_B01;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_B01;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_B01;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_B01;
+
+    // Comparação estado C01 com B02
+    populacao_vencedora_C01 = populacao_C01 >= populacao_B02;
+    area_vencedora_C01 = area_km_C01 >= area_km_B02;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_B02;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_B02;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_B02;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_B02;
+
+    // Comparação estado C01 com B03
+    populacao_vencedora_C01 = populacao_C01 >= populacao_B03;
+    area_vencedora_C01 = area_km_C01 >= area_km_B03;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_B03;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_B03;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_B03;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_B03;
+
+    // Comparação estado C01 com B04
+    populacao_vencedora_C01 = populacao_C01 >= populacao_B04;
+    area_vencedora_C01 = area_km_C01 >= area_km_B04;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_B04;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_B04;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_B04;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_B04;
+
+    // Comparação estado C01 com C02
+    populacao_vencedora_C01 = populacao_C01 >= populacao_C02;
+    area_vencedora_C01 = area_km_C01 >= area_km_C02;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_C02;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_C02;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_C02;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_C02;
+
+    // Comparação estado C01 com C03
+    populacao_vencedora_C01 = populacao_C01 >= populacao_C03;
+    area_vencedora_C01 = area_km_C01 >= area_km_C03;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_C03;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_C03;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_C03;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_C03;
+
+    // Comparação estado C01 com C04
+    populacao_vencedora_C01 = populacao_C01 >= populacao_C04;
+    area_vencedora_C01 = area_km_C01 >= area_km_C04;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_C04;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_C04;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_C04;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_C04;
+
+     // Comparação estado C01 com D01
+    populacao_vencedora_C01 = populacao_C01 >= populacao_D01;
+    area_vencedora_C01 = area_km_C01 >= area_km_D01;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_D01;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_D01;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_D01;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_D01;
+
+    // Comparação estado C01 com D02
+    populacao_vencedora_C01 = populacao_C01 >= populacao_D02;
+    area_vencedora_C01 = area_km_C01 >= area_km_D02;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_D02;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_D02;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_D02;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_D02;
+
+    // Comparação estado C01 com D03
+    populacao_vencedora_C01 = populacao_C01 >= populacao_D03;
+    area_vencedora_C01 = area_km_C01 >= area_km_D03;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_D03;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_D03;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_D03;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_D03;
+
+    // Comparação estado C01 com D04
+    populacao_vencedora_C01 = populacao_C01 >= populacao_D04;
+    area_vencedora_C01 = area_km_C01 >= area_km_D04;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_D04;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_D04;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_D04;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_D04;
+
+     // Comparação estado C01 com E01
+    populacao_vencedora_C01 = populacao_C01 >= populacao_E01;
+    area_vencedora_C01 = area_km_C01 >= area_km_E01;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_E01;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_E01;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_E01;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_A01;
+
+    // Comparação estado C01 com E02
+    populacao_vencedora_C01 = populacao_C01 >= populacao_E02;
+    area_vencedora_C01 = area_km_C01 >= area_km_E02;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_E02;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_E02;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_E02;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_E02;
+
+    // Comparação estado C01 com E03
+    populacao_vencedora_C01 = populacao_C01 >= populacao_E03;
+    area_vencedora_C01 = area_km_C01 >= area_km_E03;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_E03;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_E03;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_E03;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_E03;
+
+    // Comparação estado C01 com E04
+    populacao_vencedora_C01 = populacao_C01 >= populacao_E04;
+    area_vencedora_C01 = area_km_C01 >= area_km_E04;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_E04;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_E04;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_E04;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_E04;
+
+     // Comparação estado C01 com F01
+    populacao_vencedora_C01 = populacao_C01 >= populacao_F01;
+    area_vencedora_C01 = area_km_C01 >= area_km_F01;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_F01;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_F01;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_F01;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_F01;
+
+    // Comparação estado C01 com F02
+    populacao_vencedora_C01 = populacao_C01 >= populacao_F02;
+    area_vencedora_C01 = area_km_C01 >= area_km_F02;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_F02;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_F02;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_F02;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_F02;
+
+    // Comparação estado C01 com F03
+    populacao_vencedora_C01 = populacao_C01 >= populacao_F03;
+    area_vencedora_C01 = area_km_C01 >= area_km_F03;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_F03;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_F03;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_F03;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_F03;
+
+    // Comparação estado C01 com F04
+    populacao_vencedora_C01 = populacao_C01 >= populacao_F04;
+    area_vencedora_C01 = area_km_C01 >= area_km_F04;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_F04;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_F04;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_F04;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_F04;
+
+     // Comparação estado C01 com G01
+    populacao_vencedora_C01 = populacao_C01 >= populacao_G01;
+    area_vencedora_C01 = area_km_C01 >= area_km_G01;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_G01;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_G01;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_G01;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_G01;
+
+    // Comparação estado C01 com G02
+    populacao_vencedora_C01 = populacao_C01 >= populacao_G02;
+    area_vencedora_C01 = area_km_C01 >= area_km_G02;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_G02;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_G02;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_G02;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_G02;
+
+    // Comparação estado C01 com G03
+    populacao_vencedora_C01 = populacao_C01 >= populacao_G03;
+    area_vencedora_C01 = area_km_C01 >= area_km_G03;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_G03;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_G03;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_G03;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_G03;
+
+    // Comparação estado C01 com G04
+    populacao_vencedora_C01 = populacao_C01 >= populacao_G04;
+    area_vencedora_C01 = area_km_C01 >= area_km_G04;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_G04;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_G04;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_G04;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_G04;
+
+     // Comparação estado C01 com H01
+    populacao_vencedora_C01 = populacao_C01 >= populacao_H01;
+    area_vencedora_C01 = area_km_C01 >= area_km_H01;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_H01;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_H01;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_H01;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_H01;
+
+    // Comparação estado C01 com H02
+    populacao_vencedora_C01 = populacao_C01 >= populacao_H02;
+    area_vencedora_C01 = area_km_C01 >= area_km_H02;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_H02;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_H02;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_H02;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_H02;
+
+    // Comparação estado C01 com H03
+    populacao_vencedora_C01 = populacao_C01 >= populacao_H03;
+    area_vencedora_C01 = area_km_C01 >= area_km_H03;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_H03;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_H03;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_H03;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_H03;
+
+    // Comparação estado C01 com H04
+    populacao_vencedora_C01 = populacao_C01 >= populacao_H04;
+    area_vencedora_C01 = area_km_C01 >= area_km_H04;
+    PIB_vencedor_C01 = PIB_C01 >= PIB_H04;
+    ponto_turistico_vencedor_C01 = pontos_turisticos_C01 >= pontos_turisticos_H04;
+    densidade_vencedora_C01 = densidade_pp_C01 >= densidade_pp_H04;
+    PIB_capita_vencedor_C01 = PIB_capita_C01 >= PIB_capita_H04;
+
+    // Comparação estado C02 com A01
+    populacao_vencedora_C02 = populacao_C02 >= populacao_A01;
+    area_vencedora_C02 = area_km_C02 >= area_km_A01;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_A01;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_A01;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_A01;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_A01;
+
+    // Comparação estado C02 com A02
+    populacao_vencedora_C02 = populacao_C02 >= populacao_A02;
+    area_vencedora_C02 = area_km_C02 >= area_km_A02;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_A02;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_A02;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_A02;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_A02;
+
+    // Comparação estado C02 com A03
+    populacao_vencedora_C02 = populacao_C02 >= populacao_A03;
+    area_vencedora_C02 = area_km_C02 >= area_km_A03;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_A03;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_A03;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_A03;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_A03;
+
+    // Comparação estado C02 com A04
+    populacao_vencedora_C02 = populacao_C02 >= populacao_A04;
+    area_vencedora_C02 = area_km_C02 >= area_km_A04;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_A04;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_A04;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_A04;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_A04;
+
+    // Comparação estado C02 com B01
+    populacao_vencedora_C02 = populacao_C02 >= populacao_B01;
+    area_vencedora_C02 = area_km_C02 >= area_km_B01;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_B01;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_B01;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_B01;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_B01;
+
+    // Comparação estado C02 com B02
+    populacao_vencedora_C02 = populacao_C02 >= populacao_B02;
+    area_vencedora_C02 = area_km_C02 >= area_km_B02;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_B02;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_B02;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_B02;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_B02;
+
+    // Comparação estado C02 com B03
+    populacao_vencedora_C02 = populacao_C02 >= populacao_B03;
+    area_vencedora_C02 = area_km_C02 >= area_km_B03;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_B03;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_B03;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_B03;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_B03;
+
+    // Comparação estado C02 com B04
+    populacao_vencedora_C02 = populacao_C02 >= populacao_B04;
+    area_vencedora_C02 = area_km_C02 >= area_km_B04;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_B04;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_B04;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_B04;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_B04;
+
+    // Comparação estado C02 com C01
+    populacao_vencedora_C02 = populacao_C02 >= populacao_C01;
+    area_vencedora_C02 = area_km_C02 >= area_km_C01;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_C01;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_C01;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_C01;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_C01;
+
+    // Comparação estado C02 com C03
+    populacao_vencedora_C02 = populacao_C02 >= populacao_C03;
+    area_vencedora_C02 = area_km_C02 >= area_km_C03;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_C03;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_C03;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_C03;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_C03;
+
+    // Comparação estado C02 com C04
+    populacao_vencedora_C02 = populacao_C02 >= populacao_C04;
+    area_vencedora_C02 = area_km_C02 >= area_km_C04;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_C04;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_C04;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_C04;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_C04;
+
+    // Comparação estado C02 com D01
+    populacao_vencedora_C02 = populacao_C02 >= populacao_D01;
+    area_vencedora_C02 = area_km_C02 >= area_km_D01;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_D01;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_D01;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_D01;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_D01;
+
+    // Comparação estado C02 com D02
+    populacao_vencedora_C02 = populacao_C02 >= populacao_D02;
+    area_vencedora_C02 = area_km_C02 >= area_km_D02;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_D02;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_D02;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_D02;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_D02;
+
+    // Comparação estado C02 com D03
+    populacao_vencedora_C02 = populacao_C02 >= populacao_D03;
+    area_vencedora_C02 = area_km_C02 >= area_km_D03;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_D03;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_D03;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_D03;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_D03;
+
+    // Comparação estado C02 com D04
+    populacao_vencedora_C02 = populacao_C02 >= populacao_D04;
+    area_vencedora_C02 = area_km_C02 >= area_km_D04;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_D04;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_D04;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_D04;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_D04;
+
+    // Comparação estado C02 com E01
+    populacao_vencedora_C02 = populacao_C02 >= populacao_E01;
+    area_vencedora_C02 = area_km_C02 >= area_km_E01;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_E01;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_E01;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_E01;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_E01;
+
+    // Comparação estado C02 com E02
+    populacao_vencedora_C02 = populacao_C02 >= populacao_E02;
+    area_vencedora_C02 = area_km_C02 >= area_km_E02;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_E02;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_E02;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_E02;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_E02;
+
+    // Comparação estado C02 com E03
+    populacao_vencedora_C02 = populacao_C02 >= populacao_E03;
+    area_vencedora_C02 = area_km_C02 >= area_km_E03;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_E03;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_E03;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_E03;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_E03;
+
+    // Comparação estado C02 com E04
+    populacao_vencedora_C02 = populacao_C02 >= populacao_E04;
+    area_vencedora_C02 = area_km_C02 >= area_km_E04;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_E04;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_E04;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_E04;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_E04;
+
+    // Comparação estado C02 com F01
+    populacao_vencedora_C02 = populacao_C02 >= populacao_F01;
+    area_vencedora_C02 = area_km_C02 >= area_km_F01;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_F01;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_F01;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_F01;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_F01;
+
+    // Comparação estado C02 com F02
+    populacao_vencedora_C02 = populacao_C02 >= populacao_F02;
+    area_vencedora_C02 = area_km_C02 >= area_km_F02;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_F02;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_F02;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_F02;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_F02;
+
+    // Comparação estado C02 com F03
+    populacao_vencedora_C02 = populacao_C02 >= populacao_F03;
+    area_vencedora_C02 = area_km_C02 >= area_km_F03;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_F03;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_F03;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_F03;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_F03;
+
+    // Comparação estado C02 com F04
+    populacao_vencedora_C02 = populacao_C02 >= populacao_F04;
+    area_vencedora_C02 = area_km_C02 >= area_km_F04;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_F04;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_F04;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_F04;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_F04;
+
+    // Comparação estado C02 com G01
+    populacao_vencedora_C02 = populacao_C02 >= populacao_G01;
+    area_vencedora_C02 = area_km_C02 >= area_km_G01;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_G01;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_G01;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_G01;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_G01;
+
+    // Comparação estado C02 com G02
+    populacao_vencedora_C02 = populacao_C02 >= populacao_G02;
+    area_vencedora_C02 = area_km_C02 >= area_km_G02;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_G02;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_G02;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_G02;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_G02;
+
+    // Comparação estado C02 com G03
+    populacao_vencedora_C02 = populacao_C02 >= populacao_G03;
+    area_vencedora_C02 = area_km_C02 >= area_km_G03;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_G03;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_G03;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_G03;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_G03;
+
+    // Comparação estado C02 com G04
+    populacao_vencedora_C02 = populacao_C02 >= populacao_G04;
+    area_vencedora_C02 = area_km_C02 >= area_km_G04;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_G04;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_G04;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_G04;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_G04;
+
+    // Comparação estado C02 com H01
+    populacao_vencedora_C02 = populacao_C02 >= populacao_H01;
+    area_vencedora_C02 = area_km_C02 >= area_km_H01;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_H01;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_H01;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_H01;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_H01;
+
+    // Comparação estado C02 com H02
+    populacao_vencedora_C02 = populacao_C02 >= populacao_H02;
+    area_vencedora_C02 = area_km_C02 >= area_km_H02;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_H02;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_H02;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_H02;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_H02;
+
+    // Comparação estado C02 com H03
+    populacao_vencedora_C02 = populacao_C02 >= populacao_H03;
+    area_vencedora_C02 = area_km_C02 >= area_km_H03;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_H03;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_H03;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_H03;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_H03;
+
+    // Comparação estado C02 com H04
+    populacao_vencedora_C02 = populacao_C02 >= populacao_H04;
+    area_vencedora_C02 = area_km_C02 >= area_km_H04;
+    PIB_vencedor_C02 = PIB_C02 >= PIB_H04;
+    ponto_turistico_vencedor_C02 = pontos_turisticos_C02 >= pontos_turisticos_H04;
+    densidade_vencedora_C02 = densidade_pp_C02 >= densidade_pp_H04;
+    PIB_capita_vencedor_C02 = PIB_capita_C02 >= PIB_capita_H04;
+
+    // Comparação estado C03 com A01
+    populacao_vencedora_C03 = populacao_C03 >= populacao_A01;
+    area_vencedora_C03 = area_km_C03 >= area_km_A01;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_A01;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_A01;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_A01;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_A01;
+
+    // Comparação estado C03 com A02
+    populacao_vencedora_C03 = populacao_C03 >= populacao_A02;
+    area_vencedora_C03 = area_km_C03 >= area_km_A02;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_A02;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_A02;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_A02;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_A02;
+
+    // Comparação estado C03 com A03
+    populacao_vencedora_C03 = populacao_C03 >= populacao_A03;
+    area_vencedora_C03 = area_km_C03 >= area_km_A03;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_A03;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_A03;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_A03;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_A03;
+
+    // Comparação estado C03 com A04
+    populacao_vencedora_C03 = populacao_C03 >= populacao_A04;
+    area_vencedora_C03 = area_km_C03 >= area_km_A04;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_A04;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_A04;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_A04;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_A04;
+
+    // Comparação estado C03 com B01
+    populacao_vencedora_C03 = populacao_C03 >= populacao_B01;
+    area_vencedora_C03 = area_km_C03 >= area_km_B01;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_B01;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_B01;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_B01;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_B01;
+
+    // Comparação estado C03 com B02
+    populacao_vencedora_C03 = populacao_C03 >= populacao_B02;
+    area_vencedora_C03 = area_km_C03 >= area_km_B02;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_B02;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_B02;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_B02;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_B02;
+
+    // Comparação estado C03 com B03
+    populacao_vencedora_C03 = populacao_C03 >= populacao_B03;
+    area_vencedora_C03 = area_km_C03 >= area_km_B03;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_B03;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_B03;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_B03;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_B03;
+
+    // Comparação estado C03 com B04
+    populacao_vencedora_C03 = populacao_C03 >= populacao_B04;
+    area_vencedora_C03 = area_km_C03 >= area_km_B04;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_B04;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_B04;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_B04;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_B04;
+
+    // Comparação estado C03 com C01
+    populacao_vencedora_C03 = populacao_C03 >= populacao_C01;
+    area_vencedora_C03 = area_km_C03 >= area_km_C01;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_C01;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_C01;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_C01;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_C01;
+
+    // Comparação estado C03 com C02
+    populacao_vencedora_C03 = populacao_C03 >= populacao_C02;
+    area_vencedora_C03 = area_km_C03 >= area_km_C02;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_C02;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_C02;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_C02;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_C02;
+
+    // Comparação estado C03 com C04
+    populacao_vencedora_C03 = populacao_C03 >= populacao_C04;
+    area_vencedora_C03 = area_km_C03 >= area_km_C04;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_C04;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_C04;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_C04;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_C04;
+
+    // Comparação estado C03 com D01
+    populacao_vencedora_C03 = populacao_C03 >= populacao_D01;
+    area_vencedora_C03 = area_km_C03 >= area_km_D01;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_D01;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_D01;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_D01;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_D01;
+
+    // Comparação estado C03 com D02
+    populacao_vencedora_C03 = populacao_C03 >= populacao_D02;
+    area_vencedora_C03 = area_km_C03 >= area_km_D02;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_D02;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_D02;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_D02;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_D02;
+
+    // Comparação estado C03 com D03
+    populacao_vencedora_C03 = populacao_C03 >= populacao_D03;
+    area_vencedora_C03 = area_km_C03 >= area_km_D03;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_D03;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_D03;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_D03;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_D03;
+
+    // Comparação estado C03 com D04
+    populacao_vencedora_C03 = populacao_C03 >= populacao_D04;
+    area_vencedora_C03 = area_km_C03 >= area_km_D04;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_D04;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_D04;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_D04;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_D04;
+
+    // Comparação estado C03 com E01
+    populacao_vencedora_C03 = populacao_C03 >= populacao_E01;
+    area_vencedora_C03 = area_km_C03 >= area_km_E01;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_E01;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_E01;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_E01;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_E01;
+
+    // Comparação estado C03 com E02
+    populacao_vencedora_C03 = populacao_C03 >= populacao_E02;
+    area_vencedora_C03 = area_km_C03 >= area_km_E02;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_E02;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_E02;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_E02;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_E02;
+
+    // Comparação estado C03 com E03
+    populacao_vencedora_C03 = populacao_C03 >= populacao_E03;
+    area_vencedora_C03 = area_km_C03 >= area_km_E03;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_E03;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_E03;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_E03;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_E03;
+
+    // Comparação estado C03 com E04
+    populacao_vencedora_C03 = populacao_C03 >= populacao_E04;
+    area_vencedora_C03 = area_km_C03 >= area_km_E04;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_E04;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_E04;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_E04;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_E04;
+
+    // Comparação estado C03 com F01
+    populacao_vencedora_C03 = populacao_C03 >= populacao_F01;
+    area_vencedora_C03 = area_km_C03 >= area_km_F01;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_F01;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_F01;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_F01;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_F01;
+
+    // Comparação estado C03 com F02
+    populacao_vencedora_C03 = populacao_C03 >= populacao_F02;
+    area_vencedora_C03 = area_km_C03 >= area_km_F02;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_F02;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_F02;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_F02;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_F02;
+
+    // Comparação estado C03 com F03
+    populacao_vencedora_C03 = populacao_C03 >= populacao_F03;
+    area_vencedora_C03 = area_km_C03 >= area_km_F03;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_F03;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_F03;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_F03;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_F03;
+
+    // Comparação estado C03 com F04
+    populacao_vencedora_C03 = populacao_C03 >= populacao_F04;
+    area_vencedora_C03 = area_km_C03 >= area_km_F04;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_F04;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_F04;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_F04;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_F04;
+
+    // Comparação estado C03 com G01
+    populacao_vencedora_C03 = populacao_C03 >= populacao_G01;
+    area_vencedora_C03 = area_km_C03 >= area_km_G01;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_G01;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_G01;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_G01;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_G01;
+
+    // Comparação estado C03 com G02
+    populacao_vencedora_C03 = populacao_C03 >= populacao_G02;
+    area_vencedora_C03 = area_km_C03 >= area_km_G02;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_G02;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_G02;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_G02;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_G02;
+
+    // Comparação estado C03 com G03
+    populacao_vencedora_C03 = populacao_C03 >= populacao_G03;
+    area_vencedora_C03 = area_km_C03 >= area_km_G03;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_G03;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_G03;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_G03;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_G03;
+
+    // Comparação estado C03 com G04
+    populacao_vencedora_C03 = populacao_C03 >= populacao_G04;
+    area_vencedora_C03 = area_km_C03 >= area_km_G04;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_G04;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_G04;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_G04;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_G04;
+
+    // Comparação estado C03 com H01
+    populacao_vencedora_C03 = populacao_C03 >= populacao_H01;
+    area_vencedora_C03 = area_km_C03 >= area_km_H01;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_H01;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_H01;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_H01;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_H01;
+
+    // Comparação estado C03 com H02
+    populacao_vencedora_C03 = populacao_C03 >= populacao_H02;
+    area_vencedora_C03 = area_km_C03 >= area_km_H02;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_H02;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_H02;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_H02;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_H02;
+
+    // Comparação estado C03 com H03
+    populacao_vencedora_C03 = populacao_C03 >= populacao_H03;
+    area_vencedora_C03 = area_km_C03 >= area_km_H03;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_H03;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_H03;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_H03;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_H03;
+
+    // Comparação estado C03 com H04
+    populacao_vencedora_C03 = populacao_C03 >= populacao_H04;
+    area_vencedora_C03 = area_km_C03 >= area_km_H04;
+    PIB_vencedor_C03 = PIB_C03 >= PIB_H04;
+    ponto_turistico_vencedor_C03 = pontos_turisticos_C03 >= pontos_turisticos_H04;
+    densidade_vencedora_C03 = densidade_pp_C03 >= densidade_pp_H04;
+    PIB_capita_vencedor_C03 = PIB_capita_C03 >= PIB_capita_H04;
+
+    // Comparação estado C04 com A01
+    populacao_vencedora_C04 = populacao_C04 >= populacao_A01;
+    area_vencedora_C04 = area_km_C04 >= area_km_A01;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_A01;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_A01;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_A01;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_A01;
+
+    // Comparação estado C04 com A02
+    populacao_vencedora_C04 = populacao_C04 >= populacao_A02;
+    area_vencedora_C04 = area_km_C04 >= area_km_A02;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_A02;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_A02;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_A02;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_A02;
+
+    // Comparação estado C04 com A03
+    populacao_vencedora_C04 = populacao_C04 >= populacao_A03;
+    area_vencedora_C04 = area_km_C04 >= area_km_A03;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_A03;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_A03;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_A03;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_A03;
+
+    // Comparação estado C04 com A04
+    populacao_vencedora_C04 = populacao_C04 >= populacao_A04;
+    area_vencedora_C04 = area_km_C04 >= area_km_A04;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_A04;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_A04;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_A04;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_A04;
+
+    // Comparação estado C04 com B01
+    populacao_vencedora_C04 = populacao_C04 >= populacao_B01;
+    area_vencedora_C04 = area_km_C04 >= area_km_B01;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_B01;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_B01;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_B01;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_B01;
+
+    // Comparação estado C04 com A02
+    populacao_vencedora_C04 = populacao_C04 >= populacao_B02;
+    area_vencedora_C04 = area_km_C04 >= area_km_B02;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_B02;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_B02;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_B02;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_B02;
+
+    // Comparação estado C04 com B03
+    populacao_vencedora_C04 = populacao_C04 >= populacao_B03;
+    area_vencedora_C04 = area_km_C04 >= area_km_B03;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_B03;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_B03;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_B03;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_B03;
+
+    // Comparação estado C04 com B04
+    populacao_vencedora_C04 = populacao_C04 >= populacao_B04;
+    area_vencedora_C04 = area_km_C04 >= area_km_B04;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_B04;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_B04;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_B04;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_B04;
+
+    // Comparação estado C04 com C01
+    populacao_vencedora_C04 = populacao_C04 >= populacao_C01;
+    area_vencedora_C04 = area_km_C04 >= area_km_C01;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_C01;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_C01;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_C01;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_C01;
+
+    // Comparação estado C04 com C02
+    populacao_vencedora_C04 = populacao_C04 >= populacao_C02;
+    area_vencedora_C04 = area_km_C04 >= area_km_C02;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_C02;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_C02;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_C02;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_C02;
+
+    // Comparação estado C04 com C03
+    populacao_vencedora_C04 = populacao_C04 >= populacao_C03;
+    area_vencedora_C04 = area_km_C04 >= area_km_C03;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_C03;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_C03;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_C03;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_C03;
+
+    // Comparação estado C04 com D01
+    populacao_vencedora_C04 = populacao_C04 >= populacao_D01;
+    area_vencedora_C04 = area_km_C04 >= area_km_D01;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_D01;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_D01;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_D01;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_D01;
+
+    // Comparação estado C04 com D02
+    populacao_vencedora_C04 = populacao_C04 >= populacao_D02;
+    area_vencedora_C04 = area_km_C04 >= area_km_D02;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_D02;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_D02;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_D02;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_D02;
+
+    // Comparação estado C04 com D03
+    populacao_vencedora_C04 = populacao_C04 >= populacao_D03;
+    area_vencedora_C04 = area_km_C04 >= area_km_D03;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_D03;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_D03;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_D03;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_D03;
+
+    // Comparação estado C04 com D04
+    populacao_vencedora_C04 = populacao_C04 >= populacao_D04;
+    area_vencedora_C04 = area_km_C04 >= area_km_D04;
+    PIB_vencedor_C04 = PIB_C04 >= PIB_D04;
+    ponto_turistico_vencedor_C04 = pontos_turisticos_C04 >= pontos_turisticos_D04;
+    densidade_vencedora_C04 = densidade_pp_C04 >= densidade_pp_D04;
+    PIB_capita_vencedor_C04 = PIB_capita_C04 >= PIB_capita_D04;
 
     return 0;
 }
